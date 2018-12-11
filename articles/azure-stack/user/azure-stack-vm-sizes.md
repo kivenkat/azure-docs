@@ -162,10 +162,10 @@ Memory optimized VM sizes provide a high memory-to-CPU ratio that is designed fo
 ### <a name="mo-dv2"></a>Dv2-series
 |Size     |vCPU     |Memory (GiB) | Temp storage (GiB)  | Max OS disk throughput (IOPS) | Max temp storage throughput (IOPS) | Max data disks / throughput (IOPS) | Max NICs / expected network bandwidth (Mbps) |
 |--------------------|----|----|-----|----|-------|-------------|---------|
-|**Standard_D11_v2** |2   |14  |100  |500 |6000   |8 / 8x500    |2 / 1500 |
-|**Standard_D12_v2** |4   |28  |200  |500 |12000  |16 / 16x500  |4 / 3000 |
-|**Standard_D13_v2** |8   |56  |400  |500 |24000  |32 / 32x500  |8 / 6000 |
-|**Standard_D14_v2** |16  |112 |800  |500 |48000  |64 / 64x500  |8 / 10000 |
+|**Standard_D11_v2** |2   |14  |100  |500 |6000   |4 / 4x500    |2 / 1500 |
+|**Standard_D12_v2** |4   |28  |200  |500 |12000  |8 / 8x500  |4 / 3000 |
+|**Standard_D13_v2** |8   |56  |400  |500 |24000  |16 / 16x500  |8 / 6000 |
+|**Standard_D14_v2** |16  |112 |800  |500 |48000  |32 / 32x500  |8 / 10000 |
 
 
 ### <a name="mo-dsv2"></a>DSv2-series
